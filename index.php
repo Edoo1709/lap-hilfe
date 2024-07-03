@@ -14,6 +14,7 @@
             <a href="show.php" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Kunden anzeigen</a>
             <a href="create.php" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Kunden erstellen</a>
             <a href="show_orders.php" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Bestellungen anzeigen</a>
+            <a href="search.php" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Benutzer suchen</a>
         </div>
     </section>
 </body>
